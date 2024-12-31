@@ -44,6 +44,3 @@ Semaphore usage: Semaphores were employed to synchronize the producer and consum
 Process management: System calls and synchronization techniques were applied to ensure mutual exclusion and prevent race conditions between the producer and consumer.
 Conclusion
 This project provides a hands-on approach to learning Linux/Unix system programming, focusing on shell scripting, process management, signal handling, and inter-process synchronization. These exercises helped develop practical skills in working with the Unix/Linux environment, as well as in managing complex systems with multiple processes and communication between them.
-
-
-
